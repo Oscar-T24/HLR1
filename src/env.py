@@ -11,7 +11,7 @@ from .utils import make_ula_positions, near_field_channel_to_user, near_field_co
 
 
 def extract_interleaved_tx_rx_hsi(Hsi_24):
-    Hsi_24 = np.asarray(Hsi_24, dtype=np.complex128)
+    Hsi_24 = np.array(Hsi_24, dtype=np.complex128)
     if Hsi_24.shape != (24, 24):
         raise ValueError(f"Expected Hsi shape (24, 24), got {Hsi_24.shape}")
     tx_idx = np.arange(0, 24, 2)
