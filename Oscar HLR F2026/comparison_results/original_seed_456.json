@@ -1,0 +1,3179 @@
+{
+  "agent": "original",
+  "seed": 456,
+  "episodes": [
+    {
+      "step": 60,
+      "episode_return": 441.6345346987562
+    },
+    {
+      "step": 120,
+      "episode_return": -346.61220850642513
+    },
+    {
+      "step": 180,
+      "episode_return": -56.292559270560396
+    },
+    {
+      "step": 240,
+      "episode_return": 312.12524398835654
+    },
+    {
+      "step": 300,
+      "episode_return": 295.98755229824275
+    },
+    {
+      "step": 360,
+      "episode_return": 208.39146685669309
+    },
+    {
+      "step": 420,
+      "episode_return": 617.2974152795957
+    },
+    {
+      "step": 480,
+      "episode_return": -163.99199403646935
+    },
+    {
+      "step": 540,
+      "episode_return": -131.0583333650789
+    },
+    {
+      "step": 600,
+      "episode_return": 98.7122535810301
+    },
+    {
+      "step": 660,
+      "episode_return": -484.0824719122534
+    },
+    {
+      "step": 720,
+      "episode_return": -705.8190257569302
+    },
+    {
+      "step": 780,
+      "episode_return": -895.188082111879
+    },
+    {
+      "step": 840,
+      "episode_return": -969.249995648001
+    },
+    {
+      "step": 900,
+      "episode_return": -88.02758361223788
+    },
+    {
+      "step": 960,
+      "episode_return": -254.47019056576272
+    },
+    {
+      "step": 1020,
+      "episode_return": -986.2264686719838
+    },
+    {
+      "step": 1080,
+      "episode_return": -1004.3307420545286
+    },
+    {
+      "step": 1140,
+      "episode_return": -841.0137394599735
+    },
+    {
+      "step": 1200,
+      "episode_return": -871.8111227541452
+    },
+    {
+      "step": 1260,
+      "episode_return": -890.6447840416475
+    },
+    {
+      "step": 1320,
+      "episode_return": -1032.5077220075173
+    },
+    {
+      "step": 1380,
+      "episode_return": -1022.2410041839086
+    },
+    {
+      "step": 1440,
+      "episode_return": -839.4397055391885
+    },
+    {
+      "step": 1500,
+      "episode_return": -955.9419441773031
+    },
+    {
+      "step": 1560,
+      "episode_return": -1109.9727528558406
+    },
+    {
+      "step": 1620,
+      "episode_return": -360.10139471603173
+    },
+    {
+      "step": 1680,
+      "episode_return": -1046.2140020389675
+    },
+    {
+      "step": 1740,
+      "episode_return": -381.7174340308499
+    },
+    {
+      "step": 1800,
+      "episode_return": -1094.1481603554823
+    },
+    {
+      "step": 1860,
+      "episode_return": -198.8267864012211
+    },
+    {
+      "step": 1920,
+      "episode_return": -411.3035944166951
+    },
+    {
+      "step": 1980,
+      "episode_return": -906.5633780417953
+    },
+    {
+      "step": 2040,
+      "episode_return": -578.8161846125923
+    },
+    {
+      "step": 2100,
+      "episode_return": -582.8175900867316
+    },
+    {
+      "step": 2160,
+      "episode_return": -803.2884092937196
+    },
+    {
+      "step": 2220,
+      "episode_return": -872.8566797354874
+    },
+    {
+      "step": 2280,
+      "episode_return": -877.4289955116342
+    },
+    {
+      "step": 2340,
+      "episode_return": -638.5377111923842
+    },
+    {
+      "step": 2400,
+      "episode_return": -371.3005314940319
+    },
+    {
+      "step": 2460,
+      "episode_return": -822.964407615971
+    },
+    {
+      "step": 2520,
+      "episode_return": 232.01489902464436
+    },
+    {
+      "step": 2580,
+      "episode_return": -682.749475417011
+    },
+    {
+      "step": 2640,
+      "episode_return": -561.6179555536348
+    },
+    {
+      "step": 2700,
+      "episode_return": 360.0578578693615
+    },
+    {
+      "step": 2760,
+      "episode_return": -95.18523269731672
+    },
+    {
+      "step": 2820,
+      "episode_return": -934.3403743033637
+    },
+    {
+      "step": 2880,
+      "episode_return": -638.644586947908
+    },
+    {
+      "step": 2940,
+      "episode_return": -712.7673938954317
+    },
+    {
+      "step": 3000,
+      "episode_return": -1006.3586330477071
+    },
+    {
+      "step": 3060,
+      "episode_return": -461.6696516323982
+    },
+    {
+      "step": 3120,
+      "episode_return": -387.77798970978125
+    },
+    {
+      "step": 3180,
+      "episode_return": -729.9559838445836
+    },
+    {
+      "step": 3240,
+      "episode_return": -604.9151596344171
+    },
+    {
+      "step": 3300,
+      "episode_return": -610.1786009895085
+    },
+    {
+      "step": 3360,
+      "episode_return": -870.3633401893304
+    },
+    {
+      "step": 3420,
+      "episode_return": -1053.632799048295
+    },
+    {
+      "step": 3480,
+      "episode_return": -20.91216415990776
+    },
+    {
+      "step": 3540,
+      "episode_return": -573.4138025037994
+    },
+    {
+      "step": 3600,
+      "episode_return": -452.71842228369337
+    },
+    {
+      "step": 3660,
+      "episode_return": -874.2910575428064
+    },
+    {
+      "step": 3720,
+      "episode_return": -699.924641308146
+    },
+    {
+      "step": 3780,
+      "episode_return": -871.096934601432
+    },
+    {
+      "step": 3840,
+      "episode_return": -1080.3186450784426
+    },
+    {
+      "step": 3900,
+      "episode_return": -810.0297641959497
+    },
+    {
+      "step": 3960,
+      "episode_return": -840.3030762892796
+    },
+    {
+      "step": 4020,
+      "episode_return": -875.8201089681149
+    },
+    {
+      "step": 4080,
+      "episode_return": -565.4431413096355
+    },
+    {
+      "step": 4140,
+      "episode_return": -74.47489665582259
+    },
+    {
+      "step": 4200,
+      "episode_return": -528.7377993617521
+    },
+    {
+      "step": 4260,
+      "episode_return": -735.141998998836
+    },
+    {
+      "step": 4320,
+      "episode_return": -433.36694316740534
+    },
+    {
+      "step": 4380,
+      "episode_return": -425.71396266639863
+    },
+    {
+      "step": 4440,
+      "episode_return": -550.0157397689449
+    },
+    {
+      "step": 4500,
+      "episode_return": -661.0889864456296
+    },
+    {
+      "step": 4560,
+      "episode_return": -425.31542291072896
+    },
+    {
+      "step": 4620,
+      "episode_return": -651.6865489983988
+    },
+    {
+      "step": 4680,
+      "episode_return": 571.2860993656928
+    },
+    {
+      "step": 4740,
+      "episode_return": -439.4671333198339
+    },
+    {
+      "step": 4800,
+      "episode_return": 99.34045789467648
+    },
+    {
+      "step": 4860,
+      "episode_return": -292.8090774583485
+    },
+    {
+      "step": 4920,
+      "episode_return": -649.646044856634
+    },
+    {
+      "step": 4980,
+      "episode_return": -141.47330609320392
+    },
+    {
+      "step": 5040,
+      "episode_return": -424.2931369462845
+    },
+    {
+      "step": 5100,
+      "episode_return": -617.9399889486563
+    },
+    {
+      "step": 5160,
+      "episode_return": -426.9524365968734
+    },
+    {
+      "step": 5220,
+      "episode_return": -598.9530729651026
+    },
+    {
+      "step": 5280,
+      "episode_return": -430.5533817464843
+    },
+    {
+      "step": 5340,
+      "episode_return": -620.9730591089817
+    },
+    {
+      "step": 5400,
+      "episode_return": -925.3073438146821
+    },
+    {
+      "step": 5460,
+      "episode_return": 361.2544748105765
+    },
+    {
+      "step": 5520,
+      "episode_return": 116.70539052244314
+    },
+    {
+      "step": 5580,
+      "episode_return": -498.23944315888593
+    },
+    {
+      "step": 5640,
+      "episode_return": -394.0774154632451
+    },
+    {
+      "step": 5700,
+      "episode_return": -152.1887097887245
+    },
+    {
+      "step": 5760,
+      "episode_return": -275.7441528664522
+    },
+    {
+      "step": 5820,
+      "episode_return": -630.982281953047
+    },
+    {
+      "step": 5880,
+      "episode_return": 105.39553939803689
+    },
+    {
+      "step": 5940,
+      "episode_return": -413.65621874745005
+    },
+    {
+      "step": 6000,
+      "episode_return": -342.3139509003938
+    },
+    {
+      "step": 6060,
+      "episode_return": -385.7936798315005
+    },
+    {
+      "step": 6120,
+      "episode_return": -791.9802095376014
+    },
+    {
+      "step": 6180,
+      "episode_return": -471.1166891960098
+    },
+    {
+      "step": 6240,
+      "episode_return": 445.3718212356813
+    },
+    {
+      "step": 6300,
+      "episode_return": -472.86387094506193
+    },
+    {
+      "step": 6360,
+      "episode_return": -5.539318800668445
+    },
+    {
+      "step": 6420,
+      "episode_return": 781.90101976641
+    },
+    {
+      "step": 6480,
+      "episode_return": -701.0862364008333
+    },
+    {
+      "step": 6540,
+      "episode_return": -275.526535984892
+    },
+    {
+      "step": 6600,
+      "episode_return": -263.9427694787105
+    },
+    {
+      "step": 6660,
+      "episode_return": -919.1386191754112
+    },
+    {
+      "step": 6720,
+      "episode_return": -422.6509967180481
+    },
+    {
+      "step": 6780,
+      "episode_return": 30.131642171261902
+    },
+    {
+      "step": 6840,
+      "episode_return": -685.6284673512773
+    },
+    {
+      "step": 6900,
+      "episode_return": 439.2523438463784
+    },
+    {
+      "step": 6960,
+      "episode_return": -840.8664244400877
+    },
+    {
+      "step": 7020,
+      "episode_return": -172.22248032389498
+    },
+    {
+      "step": 7080,
+      "episode_return": -589.9298502635046
+    },
+    {
+      "step": 7140,
+      "episode_return": -593.4820570217021
+    },
+    {
+      "step": 7200,
+      "episode_return": -1100.5578321020696
+    },
+    {
+      "step": 7260,
+      "episode_return": -457.35588903985945
+    },
+    {
+      "step": 7320,
+      "episode_return": -10.18813057026041
+    },
+    {
+      "step": 7380,
+      "episode_return": -226.25894760158621
+    },
+    {
+      "step": 7440,
+      "episode_return": -427.95078194059045
+    },
+    {
+      "step": 7500,
+      "episode_return": -346.66788758708884
+    },
+    {
+      "step": 7560,
+      "episode_return": 447.70117201225673
+    },
+    {
+      "step": 7620,
+      "episode_return": 697.148879047904
+    },
+    {
+      "step": 7680,
+      "episode_return": -257.8553945155393
+    },
+    {
+      "step": 7740,
+      "episode_return": -1.3777754591984976
+    },
+    {
+      "step": 7800,
+      "episode_return": -450.8080800997676
+    },
+    {
+      "step": 7860,
+      "episode_return": -146.6073953754027
+    },
+    {
+      "step": 7920,
+      "episode_return": -58.569470716311926
+    },
+    {
+      "step": 7980,
+      "episode_return": -275.2416315444678
+    },
+    {
+      "step": 8040,
+      "episode_return": -557.2457609167948
+    },
+    {
+      "step": 8100,
+      "episode_return": 39.217459351967776
+    },
+    {
+      "step": 8160,
+      "episode_return": -26.878638410673297
+    },
+    {
+      "step": 8220,
+      "episode_return": -938.568194366232
+    },
+    {
+      "step": 8280,
+      "episode_return": -513.3950700626416
+    },
+    {
+      "step": 8340,
+      "episode_return": -330.39875318891444
+    },
+    {
+      "step": 8400,
+      "episode_return": 249.96490064273627
+    },
+    {
+      "step": 8460,
+      "episode_return": -574.3043639967099
+    },
+    {
+      "step": 8520,
+      "episode_return": -542.0833513663723
+    },
+    {
+      "step": 8580,
+      "episode_return": 204.53239811523878
+    },
+    {
+      "step": 8640,
+      "episode_return": -185.263563347177
+    },
+    {
+      "step": 8700,
+      "episode_return": -9.680943790823221
+    },
+    {
+      "step": 8760,
+      "episode_return": -234.71907033476023
+    },
+    {
+      "step": 8820,
+      "episode_return": 7.253853267626539
+    },
+    {
+      "step": 8880,
+      "episode_return": -167.79220466324264
+    },
+    {
+      "step": 8940,
+      "episode_return": 64.24487507497001
+    },
+    {
+      "step": 9000,
+      "episode_return": -278.82545934544237
+    },
+    {
+      "step": 9060,
+      "episode_return": -328.0172644012962
+    },
+    {
+      "step": 9120,
+      "episode_return": 481.97097017783767
+    },
+    {
+      "step": 9180,
+      "episode_return": -323.6520054871233
+    },
+    {
+      "step": 9240,
+      "episode_return": -238.5116388160354
+    },
+    {
+      "step": 9300,
+      "episode_return": 52.53782001737693
+    },
+    {
+      "step": 9360,
+      "episode_return": -555.7059959456694
+    },
+    {
+      "step": 9420,
+      "episode_return": -142.3677938842466
+    },
+    {
+      "step": 9480,
+      "episode_return": -489.0150773818302
+    },
+    {
+      "step": 9540,
+      "episode_return": -19.59549599960269
+    },
+    {
+      "step": 9600,
+      "episode_return": -85.06446550605614
+    },
+    {
+      "step": 9660,
+      "episode_return": -341.0827466519224
+    },
+    {
+      "step": 9720,
+      "episode_return": 144.44663122599886
+    },
+    {
+      "step": 9780,
+      "episode_return": -61.626828014556736
+    },
+    {
+      "step": 9840,
+      "episode_return": -813.1720446306099
+    },
+    {
+      "step": 9900,
+      "episode_return": -35.4712290250541
+    },
+    {
+      "step": 9960,
+      "episode_return": -462.3750921706313
+    },
+    {
+      "step": 10020,
+      "episode_return": -683.1998265108092
+    },
+    {
+      "step": 10080,
+      "episode_return": -226.55460919789698
+    },
+    {
+      "step": 10140,
+      "episode_return": -236.67348884987183
+    },
+    {
+      "step": 10200,
+      "episode_return": 835.7652168441426
+    },
+    {
+      "step": 10260,
+      "episode_return": 431.4116346221251
+    },
+    {
+      "step": 10320,
+      "episode_return": 251.266786647155
+    },
+    {
+      "step": 10380,
+      "episode_return": -800.6169485646673
+    },
+    {
+      "step": 10440,
+      "episode_return": 390.38108892593345
+    },
+    {
+      "step": 10500,
+      "episode_return": -439.21956848252756
+    },
+    {
+      "step": 10560,
+      "episode_return": 435.6566940388312
+    },
+    {
+      "step": 10620,
+      "episode_return": 794.7601707849451
+    },
+    {
+      "step": 10680,
+      "episode_return": 267.52324720692934
+    },
+    {
+      "step": 10740,
+      "episode_return": 12.700546781844734
+    },
+    {
+      "step": 10800,
+      "episode_return": 759.3908075558134
+    },
+    {
+      "step": 10860,
+      "episode_return": 1.007921024612358
+    },
+    {
+      "step": 10920,
+      "episode_return": -606.1922773317552
+    },
+    {
+      "step": 10980,
+      "episode_return": 841.5100418939606
+    },
+    {
+      "step": 11040,
+      "episode_return": -327.4715999927205
+    },
+    {
+      "step": 11100,
+      "episode_return": -218.12680184667553
+    },
+    {
+      "step": 11160,
+      "episode_return": -1008.2938242933611
+    },
+    {
+      "step": 11220,
+      "episode_return": 1073.224759571047
+    },
+    {
+      "step": 11280,
+      "episode_return": -69.19593437738578
+    },
+    {
+      "step": 11340,
+      "episode_return": -374.91607691206417
+    },
+    {
+      "step": 11400,
+      "episode_return": -150.02755695042782
+    },
+    {
+      "step": 11460,
+      "episode_return": -166.8863575596299
+    },
+    {
+      "step": 11520,
+      "episode_return": -622.3416237931674
+    },
+    {
+      "step": 11580,
+      "episode_return": -180.2772027559406
+    },
+    {
+      "step": 11640,
+      "episode_return": -114.34172098098617
+    },
+    {
+      "step": 11700,
+      "episode_return": -751.2797473018051
+    },
+    {
+      "step": 11760,
+      "episode_return": 333.76497980245693
+    },
+    {
+      "step": 11820,
+      "episode_return": 1083.2535703092335
+    },
+    {
+      "step": 11880,
+      "episode_return": -1125.0971753272331
+    },
+    {
+      "step": 11940,
+      "episode_return": -935.5221759544719
+    },
+    {
+      "step": 12000,
+      "episode_return": -61.64767686127129
+    },
+    {
+      "step": 12060,
+      "episode_return": -698.3867382919144
+    },
+    {
+      "step": 12120,
+      "episode_return": -544.5830395225082
+    },
+    {
+      "step": 12180,
+      "episode_return": 698.2444583035149
+    },
+    {
+      "step": 12240,
+      "episode_return": 791.9851041810373
+    },
+    {
+      "step": 12300,
+      "episode_return": -372.8176257617121
+    },
+    {
+      "step": 12360,
+      "episode_return": -181.12796884147667
+    },
+    {
+      "step": 12420,
+      "episode_return": 141.64658864471983
+    },
+    {
+      "step": 12480,
+      "episode_return": -656.7622342815438
+    },
+    {
+      "step": 12540,
+      "episode_return": 471.73442441833646
+    },
+    {
+      "step": 12600,
+      "episode_return": 133.75484735245738
+    },
+    {
+      "step": 12660,
+      "episode_return": 701.8917775300076
+    },
+    {
+      "step": 12720,
+      "episode_return": 298.33882431117416
+    },
+    {
+      "step": 12780,
+      "episode_return": 51.6492286949603
+    },
+    {
+      "step": 12840,
+      "episode_return": -589.9784618210903
+    },
+    {
+      "step": 12900,
+      "episode_return": 876.9443103978371
+    },
+    {
+      "step": 12960,
+      "episode_return": -296.70419867845055
+    },
+    {
+      "step": 13020,
+      "episode_return": -201.10378500173874
+    },
+    {
+      "step": 13080,
+      "episode_return": -485.2887228374566
+    },
+    {
+      "step": 13140,
+      "episode_return": 167.27679377882293
+    },
+    {
+      "step": 13200,
+      "episode_return": -874.9753937097881
+    },
+    {
+      "step": 13260,
+      "episode_return": -363.59910201008995
+    },
+    {
+      "step": 13320,
+      "episode_return": -228.96250584433182
+    },
+    {
+      "step": 13380,
+      "episode_return": 635.3714247352208
+    },
+    {
+      "step": 13440,
+      "episode_return": -360.964728643241
+    },
+    {
+      "step": 13500,
+      "episode_return": 28.147239500436164
+    },
+    {
+      "step": 13560,
+      "episode_return": -388.8452245343533
+    },
+    {
+      "step": 13620,
+      "episode_return": -215.44686004348264
+    },
+    {
+      "step": 13680,
+      "episode_return": -199.93153068728668
+    },
+    {
+      "step": 13740,
+      "episode_return": -242.39871558660087
+    },
+    {
+      "step": 13800,
+      "episode_return": -114.45156107228952
+    },
+    {
+      "step": 13860,
+      "episode_return": -123.88168435334163
+    },
+    {
+      "step": 13920,
+      "episode_return": 833.4152151418139
+    },
+    {
+      "step": 13980,
+      "episode_return": 290.8668720511709
+    },
+    {
+      "step": 14040,
+      "episode_return": 761.103545882748
+    },
+    {
+      "step": 14100,
+      "episode_return": 262.95861554395907
+    },
+    {
+      "step": 14160,
+      "episode_return": -316.8320870292529
+    },
+    {
+      "step": 14220,
+      "episode_return": -490.82544856152924
+    },
+    {
+      "step": 14280,
+      "episode_return": 346.02789604442347
+    },
+    {
+      "step": 14340,
+      "episode_return": -168.57431837792078
+    },
+    {
+      "step": 14400,
+      "episode_return": 294.13959660836343
+    },
+    {
+      "step": 14460,
+      "episode_return": -764.5520662667734
+    },
+    {
+      "step": 14520,
+      "episode_return": 91.17359794324273
+    },
+    {
+      "step": 14580,
+      "episode_return": -415.53273831934064
+    },
+    {
+      "step": 14640,
+      "episode_return": -32.67718871750674
+    },
+    {
+      "step": 14700,
+      "episode_return": -635.1422507175703
+    },
+    {
+      "step": 14760,
+      "episode_return": 104.01488354607105
+    },
+    {
+      "step": 14820,
+      "episode_return": -626.9783516927484
+    },
+    {
+      "step": 14880,
+      "episode_return": 1052.2542528600313
+    },
+    {
+      "step": 14940,
+      "episode_return": -165.05286083877283
+    },
+    {
+      "step": 15000,
+      "episode_return": 57.67520075303007
+    },
+    {
+      "step": 15060,
+      "episode_return": 62.10330866279235
+    },
+    {
+      "step": 15120,
+      "episode_return": 283.60960508584066
+    },
+    {
+      "step": 15180,
+      "episode_return": -75.16717768389285
+    },
+    {
+      "step": 15240,
+      "episode_return": 288.7561365693115
+    },
+    {
+      "step": 15300,
+      "episode_return": -35.08485257039273
+    },
+    {
+      "step": 15360,
+      "episode_return": -338.5769262881804
+    },
+    {
+      "step": 15420,
+      "episode_return": -1200.0
+    },
+    {
+      "step": 15480,
+      "episode_return": 815.6934966200184
+    },
+    {
+      "step": 15540,
+      "episode_return": -84.19967318413305
+    },
+    {
+      "step": 15600,
+      "episode_return": 155.0986200641825
+    },
+    {
+      "step": 15660,
+      "episode_return": -158.28850587963294
+    },
+    {
+      "step": 15720,
+      "episode_return": -214.0869782075299
+    },
+    {
+      "step": 15780,
+      "episode_return": -78.37450073510449
+    },
+    {
+      "step": 15840,
+      "episode_return": 258.92820462998566
+    },
+    {
+      "step": 15900,
+      "episode_return": 230.13035047921335
+    },
+    {
+      "step": 15960,
+      "episode_return": 158.32866272288135
+    },
+    {
+      "step": 16020,
+      "episode_return": 3.5188066773025377
+    },
+    {
+      "step": 16080,
+      "episode_return": -408.87290384295727
+    },
+    {
+      "step": 16140,
+      "episode_return": -538.6426675429167
+    },
+    {
+      "step": 16200,
+      "episode_return": 446.3609591484304
+    },
+    {
+      "step": 16260,
+      "episode_return": -408.77455907581026
+    },
+    {
+      "step": 16320,
+      "episode_return": -422.0197645482786
+    },
+    {
+      "step": 16380,
+      "episode_return": 414.59387773916467
+    },
+    {
+      "step": 16440,
+      "episode_return": -239.5052180277275
+    },
+    {
+      "step": 16500,
+      "episode_return": -87.52134107856318
+    },
+    {
+      "step": 16560,
+      "episode_return": -73.50227109855503
+    },
+    {
+      "step": 16620,
+      "episode_return": -233.69617943999933
+    },
+    {
+      "step": 16680,
+      "episode_return": 261.169115937718
+    },
+    {
+      "step": 16740,
+      "episode_return": -632.1891364410199
+    },
+    {
+      "step": 16800,
+      "episode_return": -610.0499820085806
+    },
+    {
+      "step": 16860,
+      "episode_return": -773.053005771661
+    },
+    {
+      "step": 16920,
+      "episode_return": 239.6789581640853
+    },
+    {
+      "step": 16980,
+      "episode_return": 259.41318330750994
+    },
+    {
+      "step": 17040,
+      "episode_return": -275.9282924776437
+    },
+    {
+      "step": 17100,
+      "episode_return": 668.8928928480445
+    },
+    {
+      "step": 17160,
+      "episode_return": 151.54630977640736
+    },
+    {
+      "step": 17220,
+      "episode_return": 228.97251139488435
+    },
+    {
+      "step": 17280,
+      "episode_return": 766.8807659054198
+    },
+    {
+      "step": 17340,
+      "episode_return": 156.96005553106545
+    },
+    {
+      "step": 17400,
+      "episode_return": -526.5136462007725
+    },
+    {
+      "step": 17460,
+      "episode_return": -623.9199188087204
+    },
+    {
+      "step": 17520,
+      "episode_return": -1101.1897669728676
+    },
+    {
+      "step": 17580,
+      "episode_return": 484.3481633929427
+    },
+    {
+      "step": 17640,
+      "episode_return": 264.3669484165443
+    },
+    {
+      "step": 17700,
+      "episode_return": -933.9202324184046
+    },
+    {
+      "step": 17760,
+      "episode_return": 453.6220888921423
+    },
+    {
+      "step": 17820,
+      "episode_return": 193.89127677196024
+    },
+    {
+      "step": 17880,
+      "episode_return": -619.163091454129
+    },
+    {
+      "step": 17940,
+      "episode_return": -408.0824062427115
+    },
+    {
+      "step": 18000,
+      "episode_return": 118.96203828012717
+    },
+    {
+      "step": 18060,
+      "episode_return": 60.10405823028069
+    },
+    {
+      "step": 18120,
+      "episode_return": -751.4470574737861
+    },
+    {
+      "step": 18180,
+      "episode_return": 283.99288595734856
+    },
+    {
+      "step": 18240,
+      "episode_return": -299.68096019535295
+    },
+    {
+      "step": 18300,
+      "episode_return": -128.0667898765422
+    },
+    {
+      "step": 18360,
+      "episode_return": 558.7874464763456
+    },
+    {
+      "step": 18420,
+      "episode_return": -84.98733589187309
+    },
+    {
+      "step": 18480,
+      "episode_return": 21.667590268497335
+    },
+    {
+      "step": 18540,
+      "episode_return": -355.2740141993751
+    },
+    {
+      "step": 18600,
+      "episode_return": 596.1078635527592
+    },
+    {
+      "step": 18660,
+      "episode_return": -609.1024699162024
+    },
+    {
+      "step": 18720,
+      "episode_return": -130.94517412896843
+    },
+    {
+      "step": 18780,
+      "episode_return": 263.05345252643303
+    },
+    {
+      "step": 18840,
+      "episode_return": 370.11552733025434
+    },
+    {
+      "step": 18900,
+      "episode_return": 246.1938298652716
+    },
+    {
+      "step": 18960,
+      "episode_return": -247.8059292287308
+    },
+    {
+      "step": 19020,
+      "episode_return": -512.5121174052208
+    },
+    {
+      "step": 19080,
+      "episode_return": -649.2718328627931
+    },
+    {
+      "step": 19140,
+      "episode_return": 293.3665793226425
+    },
+    {
+      "step": 19200,
+      "episode_return": -414.86520773611676
+    },
+    {
+      "step": 19260,
+      "episode_return": 737.2214688302797
+    },
+    {
+      "step": 19320,
+      "episode_return": -90.74839889449198
+    },
+    {
+      "step": 19380,
+      "episode_return": 1133.9833697397503
+    },
+    {
+      "step": 19440,
+      "episode_return": -217.4648347582781
+    },
+    {
+      "step": 19500,
+      "episode_return": -540.2272234523501
+    },
+    {
+      "step": 19560,
+      "episode_return": 329.7841523620172
+    },
+    {
+      "step": 19620,
+      "episode_return": 199.11381513524537
+    },
+    {
+      "step": 19680,
+      "episode_return": 694.2198238546465
+    },
+    {
+      "step": 19740,
+      "episode_return": -387.3030900831886
+    },
+    {
+      "step": 19800,
+      "episode_return": -411.5518450896678
+    },
+    {
+      "step": 19860,
+      "episode_return": -662.4341182082785
+    },
+    {
+      "step": 19920,
+      "episode_return": 459.3007145467528
+    },
+    {
+      "step": 19980,
+      "episode_return": 343.43599688983915
+    },
+    {
+      "step": 20040,
+      "episode_return": -579.3622343359768
+    },
+    {
+      "step": 20100,
+      "episode_return": -1200.0
+    },
+    {
+      "step": 20160,
+      "episode_return": -670.593955866233
+    },
+    {
+      "step": 20220,
+      "episode_return": -383.7891115286248
+    },
+    {
+      "step": 20280,
+      "episode_return": 958.9170796706113
+    },
+    {
+      "step": 20340,
+      "episode_return": -807.1651450568226
+    },
+    {
+      "step": 20400,
+      "episode_return": 407.3430368243742
+    },
+    {
+      "step": 20460,
+      "episode_return": -362.22462827482593
+    },
+    {
+      "step": 20520,
+      "episode_return": 109.28839706107671
+    },
+    {
+      "step": 20580,
+      "episode_return": -640.9295752018222
+    },
+    {
+      "step": 20640,
+      "episode_return": -751.5041879456248
+    },
+    {
+      "step": 20700,
+      "episode_return": 247.0708968385091
+    },
+    {
+      "step": 20760,
+      "episode_return": -305.5468646111997
+    },
+    {
+      "step": 20820,
+      "episode_return": 624.5763906862686
+    },
+    {
+      "step": 20880,
+      "episode_return": 480.5455311857622
+    },
+    {
+      "step": 20940,
+      "episode_return": 70.80134450579669
+    },
+    {
+      "step": 21000,
+      "episode_return": -365.70187840023783
+    },
+    {
+      "step": 21060,
+      "episode_return": 479.99566117641666
+    },
+    {
+      "step": 21120,
+      "episode_return": 283.16397601428304
+    },
+    {
+      "step": 21180,
+      "episode_return": -186.83597609889438
+    },
+    {
+      "step": 21240,
+      "episode_return": 618.1526089911191
+    },
+    {
+      "step": 21300,
+      "episode_return": -353.2239691248914
+    },
+    {
+      "step": 21360,
+      "episode_return": 635.6252645084533
+    },
+    {
+      "step": 21420,
+      "episode_return": -578.162493413305
+    },
+    {
+      "step": 21480,
+      "episode_return": 135.19790681276274
+    },
+    {
+      "step": 21540,
+      "episode_return": -651.356144637456
+    },
+    {
+      "step": 21600,
+      "episode_return": -71.40613538413912
+    },
+    {
+      "step": 21660,
+      "episode_return": -269.0836624199625
+    },
+    {
+      "step": 21720,
+      "episode_return": -253.80092296562452
+    },
+    {
+      "step": 21780,
+      "episode_return": 692.2471545853869
+    },
+    {
+      "step": 21840,
+      "episode_return": -60.36311115328372
+    },
+    {
+      "step": 21900,
+      "episode_return": -25.992539267794655
+    },
+    {
+      "step": 21960,
+      "episode_return": 402.35165698915046
+    },
+    {
+      "step": 22020,
+      "episode_return": 392.8201861146676
+    },
+    {
+      "step": 22080,
+      "episode_return": 1.1083578620670331
+    },
+    {
+      "step": 22140,
+      "episode_return": -576.7463882116372
+    },
+    {
+      "step": 22200,
+      "episode_return": 96.84392966398003
+    },
+    {
+      "step": 22260,
+      "episode_return": -10.875151643272034
+    },
+    {
+      "step": 22320,
+      "episode_return": 218.69213665256686
+    },
+    {
+      "step": 22380,
+      "episode_return": 379.227373763875
+    },
+    {
+      "step": 22440,
+      "episode_return": -311.46747291054993
+    },
+    {
+      "step": 22500,
+      "episode_return": 1055.9411936680817
+    },
+    {
+      "step": 22560,
+      "episode_return": 980.1400572749516
+    },
+    {
+      "step": 22620,
+      "episode_return": -625.3697363368847
+    },
+    {
+      "step": 22680,
+      "episode_return": 137.43390708937426
+    },
+    {
+      "step": 22740,
+      "episode_return": 131.78631938039393
+    },
+    {
+      "step": 22800,
+      "episode_return": -465.3343035543271
+    },
+    {
+      "step": 22860,
+      "episode_return": 141.031989738518
+    },
+    {
+      "step": 22920,
+      "episode_return": -613.2806433434083
+    },
+    {
+      "step": 22980,
+      "episode_return": 341.5852306517398
+    },
+    {
+      "step": 23040,
+      "episode_return": -729.5502741360378
+    },
+    {
+      "step": 23100,
+      "episode_return": -545.6264069417628
+    },
+    {
+      "step": 23160,
+      "episode_return": 893.8681329750136
+    },
+    {
+      "step": 23220,
+      "episode_return": 464.8662193254619
+    },
+    {
+      "step": 23280,
+      "episode_return": -685.7811318037199
+    },
+    {
+      "step": 23340,
+      "episode_return": -158.10547478614924
+    },
+    {
+      "step": 23400,
+      "episode_return": -558.0713513089336
+    },
+    {
+      "step": 23460,
+      "episode_return": -110.44699126267827
+    },
+    {
+      "step": 23520,
+      "episode_return": -150.5933108230543
+    },
+    {
+      "step": 23580,
+      "episode_return": -516.7442837320675
+    },
+    {
+      "step": 23640,
+      "episode_return": -758.9556304500135
+    },
+    {
+      "step": 23700,
+      "episode_return": 158.01575360060713
+    },
+    {
+      "step": 23760,
+      "episode_return": -762.7156416928372
+    },
+    {
+      "step": 23820,
+      "episode_return": -160.2158795972464
+    },
+    {
+      "step": 23880,
+      "episode_return": -156.85648169547937
+    },
+    {
+      "step": 23940,
+      "episode_return": 33.62608647279833
+    },
+    {
+      "step": 24000,
+      "episode_return": 628.0901245169348
+    },
+    {
+      "step": 24060,
+      "episode_return": 554.0634595012818
+    },
+    {
+      "step": 24120,
+      "episode_return": 990.1525204083897
+    },
+    {
+      "step": 24180,
+      "episode_return": -379.2027776196509
+    },
+    {
+      "step": 24240,
+      "episode_return": 405.73672728654236
+    },
+    {
+      "step": 24300,
+      "episode_return": -1.3937741464631666
+    },
+    {
+      "step": 24360,
+      "episode_return": -206.68605008088286
+    },
+    {
+      "step": 24420,
+      "episode_return": -348.3962728622532
+    },
+    {
+      "step": 24480,
+      "episode_return": -682.8910596601036
+    },
+    {
+      "step": 24540,
+      "episode_return": -110.54553111108686
+    },
+    {
+      "step": 24600,
+      "episode_return": 324.70658890469247
+    },
+    {
+      "step": 24660,
+      "episode_return": 1135.2605842703977
+    },
+    {
+      "step": 24720,
+      "episode_return": 289.1819766247853
+    },
+    {
+      "step": 24780,
+      "episode_return": 957.29803001651
+    },
+    {
+      "step": 24840,
+      "episode_return": -643.4278289421111
+    },
+    {
+      "step": 24900,
+      "episode_return": -306.3606841612935
+    },
+    {
+      "step": 24960,
+      "episode_return": 415.7882822775358
+    },
+    {
+      "step": 25020,
+      "episode_return": 149.3935284455793
+    },
+    {
+      "step": 25080,
+      "episode_return": 17.86985963527411
+    },
+    {
+      "step": 25140,
+      "episode_return": -315.70861492971005
+    },
+    {
+      "step": 25200,
+      "episode_return": 1153.367234230584
+    },
+    {
+      "step": 25260,
+      "episode_return": 653.7803098924272
+    },
+    {
+      "step": 25320,
+      "episode_return": -683.6657400004884
+    },
+    {
+      "step": 25380,
+      "episode_return": -580.1821172864247
+    },
+    {
+      "step": 25440,
+      "episode_return": 88.47204079559138
+    },
+    {
+      "step": 25500,
+      "episode_return": 510.76259118201756
+    },
+    {
+      "step": 25560,
+      "episode_return": 539.2658659444368
+    },
+    {
+      "step": 25620,
+      "episode_return": -542.6817841678968
+    },
+    {
+      "step": 25680,
+      "episode_return": 268.75908125552525
+    },
+    {
+      "step": 25740,
+      "episode_return": -187.20210795242144
+    },
+    {
+      "step": 25800,
+      "episode_return": 149.0152498251174
+    },
+    {
+      "step": 25860,
+      "episode_return": 616.7343601856707
+    },
+    {
+      "step": 25920,
+      "episode_return": -370.1027202780395
+    },
+    {
+      "step": 25980,
+      "episode_return": -799.6046439438234
+    },
+    {
+      "step": 26040,
+      "episode_return": 288.46769678841014
+    },
+    {
+      "step": 26100,
+      "episode_return": -521.1170174665326
+    },
+    {
+      "step": 26160,
+      "episode_return": 427.4834191719424
+    },
+    {
+      "step": 26220,
+      "episode_return": 272.6091679515582
+    },
+    {
+      "step": 26280,
+      "episode_return": 69.71878053923047
+    },
+    {
+      "step": 26340,
+      "episode_return": -480.26581292203906
+    },
+    {
+      "step": 26400,
+      "episode_return": 742.290004076302
+    },
+    {
+      "step": 26460,
+      "episode_return": -730.7419268148877
+    },
+    {
+      "step": 26520,
+      "episode_return": -628.8293536242819
+    },
+    {
+      "step": 26580,
+      "episode_return": -25.61860434845029
+    },
+    {
+      "step": 26640,
+      "episode_return": -386.71247893465875
+    },
+    {
+      "step": 26700,
+      "episode_return": 157.62267837741695
+    },
+    {
+      "step": 26760,
+      "episode_return": -166.73240166142756
+    },
+    {
+      "step": 26820,
+      "episode_return": -321.5931722589217
+    },
+    {
+      "step": 26880,
+      "episode_return": 1036.9278601991948
+    },
+    {
+      "step": 26940,
+      "episode_return": -539.7911135968423
+    },
+    {
+      "step": 27000,
+      "episode_return": 122.1118226925846
+    },
+    {
+      "step": 27060,
+      "episode_return": -24.675378828044785
+    },
+    {
+      "step": 27120,
+      "episode_return": 270.2915833634265
+    },
+    {
+      "step": 27180,
+      "episode_return": -242.79038059608018
+    },
+    {
+      "step": 27240,
+      "episode_return": 633.230459686893
+    },
+    {
+      "step": 27300,
+      "episode_return": -311.0879960019828
+    },
+    {
+      "step": 27360,
+      "episode_return": 398.15898685658374
+    },
+    {
+      "step": 27420,
+      "episode_return": 128.72026282833937
+    },
+    {
+      "step": 27480,
+      "episode_return": -429.50473989942043
+    },
+    {
+      "step": 27540,
+      "episode_return": 402.6955325647321
+    },
+    {
+      "step": 27600,
+      "episode_return": -137.09835617192837
+    },
+    {
+      "step": 27660,
+      "episode_return": -380.6163922456191
+    },
+    {
+      "step": 27720,
+      "episode_return": 565.452991812556
+    },
+    {
+      "step": 27780,
+      "episode_return": -430.45010529002764
+    },
+    {
+      "step": 27840,
+      "episode_return": -719.2103968389628
+    },
+    {
+      "step": 27900,
+      "episode_return": 405.4172854917078
+    },
+    {
+      "step": 27960,
+      "episode_return": -896.333499586267
+    },
+    {
+      "step": 28020,
+      "episode_return": 298.5898464957923
+    },
+    {
+      "step": 28080,
+      "episode_return": -181.33408741231437
+    },
+    {
+      "step": 28140,
+      "episode_return": -1085.800340505647
+    },
+    {
+      "step": 28200,
+      "episode_return": -318.0951264302507
+    },
+    {
+      "step": 28260,
+      "episode_return": -64.43150900762475
+    },
+    {
+      "step": 28320,
+      "episode_return": -164.9774915828144
+    },
+    {
+      "step": 28380,
+      "episode_return": -822.0277015570018
+    },
+    {
+      "step": 28440,
+      "episode_return": 230.66551540381639
+    },
+    {
+      "step": 28500,
+      "episode_return": -19.89636164924506
+    },
+    {
+      "step": 28560,
+      "episode_return": -718.3085585896126
+    },
+    {
+      "step": 28620,
+      "episode_return": 15.788427957995914
+    },
+    {
+      "step": 28680,
+      "episode_return": -965.255229570657
+    },
+    {
+      "step": 28740,
+      "episode_return": -681.5885816741559
+    },
+    {
+      "step": 28800,
+      "episode_return": -382.90348580922114
+    },
+    {
+      "step": 28860,
+      "episode_return": -762.925511594565
+    },
+    {
+      "step": 28920,
+      "episode_return": 615.3641617772257
+    },
+    {
+      "step": 28980,
+      "episode_return": 510.40018315482536
+    },
+    {
+      "step": 29040,
+      "episode_return": -836.1450003640988
+    },
+    {
+      "step": 29100,
+      "episode_return": -389.3370308100933
+    },
+    {
+      "step": 29160,
+      "episode_return": -724.4772787314078
+    },
+    {
+      "step": 29220,
+      "episode_return": -909.4931339162812
+    },
+    {
+      "step": 29280,
+      "episode_return": 94.80746419889002
+    },
+    {
+      "step": 29340,
+      "episode_return": 284.8491652470074
+    },
+    {
+      "step": 29400,
+      "episode_return": -819.1001883668107
+    },
+    {
+      "step": 29460,
+      "episode_return": -774.1219600568627
+    },
+    {
+      "step": 29520,
+      "episode_return": 564.5341769764782
+    },
+    {
+      "step": 29580,
+      "episode_return": -370.83776451444066
+    },
+    {
+      "step": 29640,
+      "episode_return": 101.46949339012198
+    },
+    {
+      "step": 29700,
+      "episode_return": 194.92615699613083
+    },
+    {
+      "step": 29760,
+      "episode_return": 429.15764047856476
+    },
+    {
+      "step": 29820,
+      "episode_return": -10.444317352943017
+    },
+    {
+      "step": 29880,
+      "episode_return": 693.0096585324318
+    },
+    {
+      "step": 29940,
+      "episode_return": 78.73429357820683
+    },
+    {
+      "step": 30000,
+      "episode_return": -754.6107828524385
+    }
+  ],
+  "validation": [
+    {
+      "step": 5000,
+      "return_mean": -256.08476315193286,
+      "final_improvement_mean_dB": 0.4517608098509417,
+      "final_DL_loss_mean_dB": 7.414691535406016,
+      "final_UL_loss_mean_dB": 7.6733540979974375,
+      "final_feasible_rate": 0.0,
+      "any_feasible_rate": 1.0,
+      "best_feasible_improvement_mean_dB": 5.91102633013693
+    },
+    {
+      "step": 10000,
+      "return_mean": 20.29557965146268,
+      "final_improvement_mean_dB": -2.3994152983965913,
+      "final_DL_loss_mean_dB": 6.715062246786333,
+      "final_UL_loss_mean_dB": 4.473881488146803,
+      "final_feasible_rate": 0.2,
+      "any_feasible_rate": 1.0,
+      "best_feasible_improvement_mean_dB": 2.8178657346003835
+    },
+    {
+      "step": 15000,
+      "return_mean": 110.40073525791112,
+      "final_improvement_mean_dB": -2.101906461163811,
+      "final_DL_loss_mean_dB": 6.9730438196861595,
+      "final_UL_loss_mean_dB": 2.2052286551591207,
+      "final_feasible_rate": 0.4,
+      "any_feasible_rate": 1.0,
+      "best_feasible_improvement_mean_dB": 5.626105488463369
+    },
+    {
+      "step": 20000,
+      "return_mean": -46.338313395801265,
+      "final_improvement_mean_dB": -0.458648879399475,
+      "final_DL_loss_mean_dB": 2.457317395424257,
+      "final_UL_loss_mean_dB": 3.107246460806288,
+      "final_feasible_rate": 0.4,
+      "any_feasible_rate": 1.0,
+      "best_feasible_improvement_mean_dB": 4.985843332799932
+    },
+    {
+      "step": 25000,
+      "return_mean": -232.2897344826813,
+      "final_improvement_mean_dB": 2.0729892124506715,
+      "final_DL_loss_mean_dB": 6.004002264799349,
+      "final_UL_loss_mean_dB": 3.2866632368840216,
+      "final_feasible_rate": 0.3,
+      "any_feasible_rate": 1.0,
+      "best_feasible_improvement_mean_dB": 7.629914937965305
+    },
+    {
+      "step": 30000,
+      "return_mean": -188.3860586463805,
+      "final_improvement_mean_dB": 0.28099958238267675,
+      "final_DL_loss_mean_dB": 7.936873335829756,
+      "final_UL_loss_mean_dB": 5.005657556194025,
+      "final_feasible_rate": 0.4,
+      "any_feasible_rate": 1.0,
+      "best_feasible_improvement_mean_dB": 5.3109676503129535
+    }
+  ],
+  "test_rows": [
+    {
+      "case_seed": 20000,
+      "episode_return": 106.43188278310863,
+      "final_SI_dB": -18.86308092985757,
+      "final_improvement_dB": 2.364565322082427,
+      "final_DL_loss_dB": 13.651803689522772,
+      "final_UL_loss_dB": 5.749669361397096,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 5.66457311840146
+    },
+    {
+      "case_seed": 20001,
+      "episode_return": 1151.8636320954718,
+      "final_SI_dB": -49.78220550676069,
+      "final_improvement_dB": 23.401094825352203,
+      "final_DL_loss_dB": 0.25989022644215076,
+      "final_UL_loss_dB": 2.866427605600231,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 24.48805239855249
+    },
+    {
+      "case_seed": 20002,
+      "episode_return": -1191.1308587482383,
+      "final_SI_dB": -40.825786244424584,
+      "final_improvement_dB": -6.471244354124977,
+      "final_DL_loss_dB": 0.1919268790748223,
+      "final_UL_loss_dB": 0.137597880481243,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -4.54808248597314
+    },
+    {
+      "case_seed": 20003,
+      "episode_return": 1143.6290003850208,
+      "final_SI_dB": -34.783591135822604,
+      "final_improvement_dB": 2.6114784916651175,
+      "final_DL_loss_dB": 2.212725985647113,
+      "final_UL_loss_dB": 0.7693154357271226,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 7.860510180535137
+    },
+    {
+      "case_seed": 20004,
+      "episode_return": 98.42024193967733,
+      "final_SI_dB": -23.806623214079288,
+      "final_improvement_dB": -2.6131435916643007,
+      "final_DL_loss_dB": 0.9815511744310061,
+      "final_UL_loss_dB": 2.809815488866482,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 8.119858030358213
+    },
+    {
+      "case_seed": 20005,
+      "episode_return": 947.9321882093382,
+      "final_SI_dB": -19.42098357818171,
+      "final_improvement_dB": 5.5268138928556,
+      "final_DL_loss_dB": 0.37415724488945656,
+      "final_UL_loss_dB": 2.719264208577018,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 5.5268138928556
+    },
+    {
+      "case_seed": 20006,
+      "episode_return": 1064.0023409562832,
+      "final_SI_dB": -48.92680104003149,
+      "final_improvement_dB": 0.002714501003495684,
+      "final_DL_loss_dB": 0.04383221064588483,
+      "final_UL_loss_dB": 0.9312722644910068,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 24.024497429611003
+    },
+    {
+      "case_seed": 20007,
+      "episode_return": -495.7862315127138,
+      "final_SI_dB": -13.312222441292192,
+      "final_improvement_dB": -6.774328955605352,
+      "final_DL_loss_dB": 13.842593963992137,
+      "final_UL_loss_dB": 1.186522318763597,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -2.4852393466915963
+    },
+    {
+      "case_seed": 20008,
+      "episode_return": 638.0917331686243,
+      "final_SI_dB": -28.59041143347965,
+      "final_improvement_dB": 2.675308995351095,
+      "final_DL_loss_dB": 7.552554412228688,
+      "final_UL_loss_dB": 0.029585500452780522,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 9.765607284115312
+    },
+    {
+      "case_seed": 20009,
+      "episode_return": -1092.7859917542812,
+      "final_SI_dB": -28.588897812239125,
+      "final_improvement_dB": -12.768402467067432,
+      "final_DL_loss_dB": 1.632194745319211,
+      "final_UL_loss_dB": 1.2916102874887816,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -1.4036863424799009
+    },
+    {
+      "case_seed": 20010,
+      "episode_return": -86.40305128929279,
+      "final_SI_dB": -31.515042290010268,
+      "final_improvement_dB": 1.2190177186312923,
+      "final_DL_loss_dB": 1.519249107521608,
+      "final_UL_loss_dB": 6.535719064908658,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 1.745057923550835
+    },
+    {
+      "case_seed": 20011,
+      "episode_return": -342.839610343996,
+      "final_SI_dB": -26.248858370819974,
+      "final_improvement_dB": -5.662925419991144,
+      "final_DL_loss_dB": 12.794777214583158,
+      "final_UL_loss_dB": 18.13008423992015,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 4.173104515458018
+    },
+    {
+      "case_seed": 20012,
+      "episode_return": 833.2045149128344,
+      "final_SI_dB": -21.512615696848158,
+      "final_improvement_dB": 3.437762461486887,
+      "final_DL_loss_dB": 1.280172043194037,
+      "final_UL_loss_dB": 2.114836626748515,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 3.4595497732138334
+    },
+    {
+      "case_seed": 20013,
+      "episode_return": -306.9293983638247,
+      "final_SI_dB": -29.401104530917493,
+      "final_improvement_dB": -2.001377579310546,
+      "final_DL_loss_dB": 1.9204533817043838,
+      "final_UL_loss_dB": 13.434159959304592,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 3.924596598130467
+    },
+    {
+      "case_seed": 20014,
+      "episode_return": -892.4807809895262,
+      "final_SI_dB": -33.39432887686562,
+      "final_improvement_dB": -8.09082215119708,
+      "final_DL_loss_dB": 1.4033360003065578,
+      "final_UL_loss_dB": 1.0299891571420172,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -0.7699029362755283
+    },
+    {
+      "case_seed": 20015,
+      "episode_return": -8.219837631502969,
+      "final_SI_dB": -21.287485598393843,
+      "final_improvement_dB": 9.351510457361819,
+      "final_DL_loss_dB": 0.643951936106717,
+      "final_UL_loss_dB": 6.5112636414300145,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 4.317286484963464
+    },
+    {
+      "case_seed": 20016,
+      "episode_return": 536.1855020044942,
+      "final_SI_dB": -32.066537341713506,
+      "final_improvement_dB": -0.44322161157014506,
+      "final_DL_loss_dB": 4.459179418493096,
+      "final_UL_loss_dB": 2.790730236167862,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 9.460496204717245
+    },
+    {
+      "case_seed": 20017,
+      "episode_return": 304.66920122047964,
+      "final_SI_dB": -31.415605506331783,
+      "final_improvement_dB": 1.06309014659697,
+      "final_DL_loss_dB": 2.117963676511806,
+      "final_UL_loss_dB": 0.8235841958276566,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 1.06309014659697
+    },
+    {
+      "case_seed": 20018,
+      "episode_return": 521.3994694336048,
+      "final_SI_dB": -30.647788324722505,
+      "final_improvement_dB": 0.9776044115847284,
+      "final_DL_loss_dB": 3.821753577948348,
+      "final_UL_loss_dB": 4.98642344045669,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 3.1946274460651267
+    },
+    {
+      "case_seed": 20019,
+      "episode_return": -709.7187112950638,
+      "final_SI_dB": -17.69003709832186,
+      "final_improvement_dB": -14.170430676928941,
+      "final_DL_loss_dB": 4.802579039876823,
+      "final_UL_loss_dB": 0.37714379050173186,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -1.7258832047992776
+    },
+    {
+      "case_seed": 20020,
+      "episode_return": -1054.5530815278578,
+      "final_SI_dB": -25.525504326312483,
+      "final_improvement_dB": -6.577510493566987,
+      "final_DL_loss_dB": 0.22184120617346892,
+      "final_UL_loss_dB": 3.040319361700938,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 0.14605128664960887
+    },
+    {
+      "case_seed": 20021,
+      "episode_return": -769.2243744969996,
+      "final_SI_dB": -37.33191905223228,
+      "final_improvement_dB": -4.688668889705653,
+      "final_DL_loss_dB": 0.2677085562543109,
+      "final_UL_loss_dB": 0.7496230635959336,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -0.5902774444835188
+    },
+    {
+      "case_seed": 20022,
+      "episode_return": -604.0020784310044,
+      "final_SI_dB": -35.29051275305894,
+      "final_improvement_dB": -2.778715266532764,
+      "final_DL_loss_dB": 1.4946788220037828,
+      "final_UL_loss_dB": 2.6042089823080303,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -0.7104021751556004
+    },
+    {
+      "case_seed": 20023,
+      "episode_return": 370.9531046378177,
+      "final_SI_dB": -31.9781898085198,
+      "final_improvement_dB": 0.8974931236145949,
+      "final_DL_loss_dB": 0.3726314283585168,
+      "final_UL_loss_dB": 0.3351187055491618,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 0.8974931236145949
+    },
+    {
+      "case_seed": 20024,
+      "episode_return": 35.61228534487773,
+      "final_SI_dB": -30.65207182586478,
+      "final_improvement_dB": -12.831706586902236,
+      "final_DL_loss_dB": 4.5933954754417545,
+      "final_UL_loss_dB": 0.4978722849467303,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 1.1337105380944976
+    },
+    {
+      "case_seed": 20025,
+      "episode_return": 350.5762485985474,
+      "final_SI_dB": -28.987447992330686,
+      "final_improvement_dB": 1.0116696041519084,
+      "final_DL_loss_dB": 0.13477843641676301,
+      "final_UL_loss_dB": 2.3268413493301203,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 1.0712166418053535
+    },
+    {
+      "case_seed": 20026,
+      "episode_return": 21.624937784715833,
+      "final_SI_dB": -16.322824457412263,
+      "final_improvement_dB": -14.191236752701858,
+      "final_DL_loss_dB": 9.706750494715596,
+      "final_UL_loss_dB": 10.933333774827576,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 6.957078148509325
+    },
+    {
+      "case_seed": 20027,
+      "episode_return": -20.841682056924697,
+      "final_SI_dB": -58.55258855223154,
+      "final_improvement_dB": 32.15489604656204,
+      "final_DL_loss_dB": 3.446494879688119,
+      "final_UL_loss_dB": 1.310849936537064,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 34.82545875905158
+    },
+    {
+      "case_seed": 20028,
+      "episode_return": 936.6307540403611,
+      "final_SI_dB": -25.416943416042717,
+      "final_improvement_dB": 10.382197651326695,
+      "final_DL_loss_dB": 0.9339816919396942,
+      "final_UL_loss_dB": 4.807778980280558,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 18.907437822696707
+    },
+    {
+      "case_seed": 20029,
+      "episode_return": 78.94360966647326,
+      "final_SI_dB": -34.15460302192835,
+      "final_improvement_dB": 4.7424294639052675,
+      "final_DL_loss_dB": 3.7443887462678127,
+      "final_UL_loss_dB": 11.621251165713854,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 9.113032573809633
+    },
+    {
+      "case_seed": 20030,
+      "episode_return": 240.71082044685403,
+      "final_SI_dB": -31.353615056883335,
+      "final_improvement_dB": -0.7023721525808142,
+      "final_DL_loss_dB": 1.8479191446056547,
+      "final_UL_loss_dB": 9.261398896974697,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 5.455250714313479
+    },
+    {
+      "case_seed": 20031,
+      "episode_return": -254.230686261033,
+      "final_SI_dB": -35.75037975695514,
+      "final_improvement_dB": 21.22947737408287,
+      "final_DL_loss_dB": 10.569312228036575,
+      "final_UL_loss_dB": 13.759038362731465,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 11.73439967945196
+    },
+    {
+      "case_seed": 20032,
+      "episode_return": 517.6597814636254,
+      "final_SI_dB": -38.689765311264445,
+      "final_improvement_dB": 2.678311464354252,
+      "final_DL_loss_dB": 7.256563874340304,
+      "final_UL_loss_dB": 2.6376061773355097,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 5.509486789938833
+    },
+    {
+      "case_seed": 20033,
+      "episode_return": -379.67944666541416,
+      "final_SI_dB": -31.679088783131554,
+      "final_improvement_dB": -1.5318232592222714,
+      "final_DL_loss_dB": 6.7113417861488465,
+      "final_UL_loss_dB": 7.6080629816843075,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 0.4905466027564245
+    },
+    {
+      "case_seed": 20034,
+      "episode_return": -277.07564826252127,
+      "final_SI_dB": -11.930256749839254,
+      "final_improvement_dB": -7.159762957919826,
+      "final_DL_loss_dB": 7.98474037571783,
+      "final_UL_loss_dB": 4.562204639064079,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 2.1548940699399566
+    },
+    {
+      "case_seed": 20035,
+      "episode_return": 348.8518474134351,
+      "final_SI_dB": -32.97608026049167,
+      "final_improvement_dB": -5.923733842664326,
+      "final_DL_loss_dB": 5.140493177505601,
+      "final_UL_loss_dB": 3.6099344513156026,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 38.81617008624524
+    },
+    {
+      "case_seed": 20036,
+      "episode_return": -194.4083806325954,
+      "final_SI_dB": -32.30519586077628,
+      "final_improvement_dB": 3.0855315025798866,
+      "final_DL_loss_dB": 0.6806141451431458,
+      "final_UL_loss_dB": 7.49674405461816,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -0.4971130837280846
+    },
+    {
+      "case_seed": 20037,
+      "episode_return": -370.6725701998888,
+      "final_SI_dB": -34.09549292908691,
+      "final_improvement_dB": 8.157464946631585,
+      "final_DL_loss_dB": 5.421598439497211,
+      "final_UL_loss_dB": 11.44202318806629,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 5.793893248124419
+    },
+    {
+      "case_seed": 20038,
+      "episode_return": 390.33418359540036,
+      "final_SI_dB": -25.853225158261782,
+      "final_improvement_dB": 0.4865928882625816,
+      "final_DL_loss_dB": 0.29873303092525916,
+      "final_UL_loss_dB": 2.2245729938898666,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 1.373456864309798
+    },
+    {
+      "case_seed": 20039,
+      "episode_return": 434.78131708967015,
+      "final_SI_dB": -33.20993989773589,
+      "final_improvement_dB": 2.5439814863110684,
+      "final_DL_loss_dB": 0.20613595813206587,
+      "final_UL_loss_dB": 0.5289846138174656,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 2.5439814863110684
+    },
+    {
+      "case_seed": 20040,
+      "episode_return": 287.33082263880135,
+      "final_SI_dB": -29.575364272088276,
+      "final_improvement_dB": 7.649909872106107,
+      "final_DL_loss_dB": 5.105139712277661,
+      "final_UL_loss_dB": 1.6045146367830512,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 6.419572434853354
+    },
+    {
+      "case_seed": 20041,
+      "episode_return": 381.05595973282516,
+      "final_SI_dB": -33.329467893959134,
+      "final_improvement_dB": 0.5687020050544618,
+      "final_DL_loss_dB": 0.3805428891979581,
+      "final_UL_loss_dB": 1.715730816652771,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 1.1240011259594809
+    },
+    {
+      "case_seed": 20042,
+      "episode_return": 163.06311170326035,
+      "final_SI_dB": -32.79703478411247,
+      "final_improvement_dB": 2.0749093056024854,
+      "final_DL_loss_dB": 0.06402472146089266,
+      "final_UL_loss_dB": 1.131012334056491,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 2.0749093056024854
+    },
+    {
+      "case_seed": 20043,
+      "episode_return": -46.169986724495644,
+      "final_SI_dB": -31.68086536582728,
+      "final_improvement_dB": -3.1837681735009014,
+      "final_DL_loss_dB": 1.8929942896317318,
+      "final_UL_loss_dB": 2.6292626507570755,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 11.201298740249975
+    },
+    {
+      "case_seed": 20044,
+      "episode_return": -305.0558807956454,
+      "final_SI_dB": -36.579773001840444,
+      "final_improvement_dB": -5.301542372002594,
+      "final_DL_loss_dB": 0.26356817852708403,
+      "final_UL_loss_dB": 1.8705652992592245,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 4.389095392392406
+    },
+    {
+      "case_seed": 20045,
+      "episode_return": -723.0563343951899,
+      "final_SI_dB": -13.244464012946601,
+      "final_improvement_dB": -23.0322207532894,
+      "final_DL_loss_dB": 7.936934661479112,
+      "final_UL_loss_dB": 5.876567209009421,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -2.2638528387820998
+    },
+    {
+      "case_seed": 20046,
+      "episode_return": -712.1835416429634,
+      "final_SI_dB": -27.844786195054848,
+      "final_improvement_dB": -6.152561377999529,
+      "final_DL_loss_dB": 6.384373080877636,
+      "final_UL_loss_dB": 9.756409009468406,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 5.227170066402813
+    },
+    {
+      "case_seed": 20047,
+      "episode_return": -642.3746817519517,
+      "final_SI_dB": -30.04593836005078,
+      "final_improvement_dB": 1.1159417468930677,
+      "final_DL_loss_dB": 2.2052851589296107,
+      "final_UL_loss_dB": 10.605600953683926,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 1.8207988218365898
+    },
+    {
+      "case_seed": 20048,
+      "episode_return": -903.3777433758723,
+      "final_SI_dB": -37.10908461486314,
+      "final_improvement_dB": -25.888940017085332,
+      "final_DL_loss_dB": 2.452435877992407,
+      "final_UL_loss_dB": 1.7082069735603866,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -22.109786946311665
+    },
+    {
+      "case_seed": 20049,
+      "episode_return": -260.74132545300915,
+      "final_SI_dB": -27.7990934622461,
+      "final_improvement_dB": 6.5035684169274255,
+      "final_DL_loss_dB": 5.12018495807327,
+      "final_UL_loss_dB": 0.5930029003597763,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 3.2738237337368936
+    },
+    {
+      "case_seed": 20050,
+      "episode_return": 933.3960112761155,
+      "final_SI_dB": -37.757319658142144,
+      "final_improvement_dB": 5.0325250698369075,
+      "final_DL_loss_dB": 2.2936713455002167,
+      "final_UL_loss_dB": 0.17095852706103543,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 10.986693594874538
+    },
+    {
+      "case_seed": 20051,
+      "episode_return": -640.517039386989,
+      "final_SI_dB": -32.77484242213785,
+      "final_improvement_dB": -7.100090663101341,
+      "final_DL_loss_dB": 4.233080920999086,
+      "final_UL_loss_dB": 7.0922497637380975,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -1.112320338917442
+    },
+    {
+      "case_seed": 20052,
+      "episode_return": 230.11252997671383,
+      "final_SI_dB": -32.0182861287569,
+      "final_improvement_dB": 1.466382229605646,
+      "final_DL_loss_dB": 3.7166963121986427,
+      "final_UL_loss_dB": 5.183545468957952,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 12.097468553744871
+    },
+    {
+      "case_seed": 20053,
+      "episode_return": -415.7735593346826,
+      "final_SI_dB": -33.80922137110399,
+      "final_improvement_dB": 4.499692491058692,
+      "final_DL_loss_dB": 4.821551910931792,
+      "final_UL_loss_dB": 0.4696565141954636,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -0.6080801287224027
+    },
+    {
+      "case_seed": 20054,
+      "episode_return": 221.98013720578973,
+      "final_SI_dB": -18.060500318748854,
+      "final_improvement_dB": 2.986448678474801,
+      "final_DL_loss_dB": 5.4820982650454955,
+      "final_UL_loss_dB": 1.4972110578435434,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 3.254664897430981
+    },
+    {
+      "case_seed": 20055,
+      "episode_return": -131.26316639108362,
+      "final_SI_dB": -27.217527269290997,
+      "final_improvement_dB": 1.0071218647363125,
+      "final_DL_loss_dB": 9.319042722824285,
+      "final_UL_loss_dB": 11.354265665438314,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 20.365610333823305
+    },
+    {
+      "case_seed": 20056,
+      "episode_return": 135.6471572758096,
+      "final_SI_dB": -29.154900951979595,
+      "final_improvement_dB": -0.2574711438101218,
+      "final_DL_loss_dB": 1.985119746355549,
+      "final_UL_loss_dB": 0.4608213386531297,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -0.2574711438101218
+    },
+    {
+      "case_seed": 20057,
+      "episode_return": 1024.2582114023035,
+      "final_SI_dB": -37.145990224780185,
+      "final_improvement_dB": 17.854785291710883,
+      "final_DL_loss_dB": 0.7743738120080774,
+      "final_UL_loss_dB": 1.6071935995473865,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 17.97786036228179
+    },
+    {
+      "case_seed": 20058,
+      "episode_return": -366.2492524991586,
+      "final_SI_dB": -20.64187570962366,
+      "final_improvement_dB": -20.932395776827466,
+      "final_DL_loss_dB": 12.086895056245131,
+      "final_UL_loss_dB": 11.772875365406824,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 17.70890110943047
+    },
+    {
+      "case_seed": 20059,
+      "episode_return": 196.8253690695869,
+      "final_SI_dB": -27.391157214588638,
+      "final_improvement_dB": 0.09969301751785409,
+      "final_DL_loss_dB": 1.496178052953674,
+      "final_UL_loss_dB": 1.7922630455508983,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 0.44849061545007274
+    },
+    {
+      "case_seed": 20060,
+      "episode_return": -711.6031629738628,
+      "final_SI_dB": -35.10135505049836,
+      "final_improvement_dB": -10.644907815570498,
+      "final_DL_loss_dB": 18.421142735522157,
+      "final_UL_loss_dB": 10.510403464890707,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 12.36298892575968
+    },
+    {
+      "case_seed": 20061,
+      "episode_return": -2.185191171652093,
+      "final_SI_dB": -39.722743707816676,
+      "final_improvement_dB": 20.83979711002326,
+      "final_DL_loss_dB": 11.382586446254551,
+      "final_UL_loss_dB": 1.5058284319652522,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 13.605596987364198
+    },
+    {
+      "case_seed": 20062,
+      "episode_return": 300.1453471064617,
+      "final_SI_dB": -35.96398104309857,
+      "final_improvement_dB": 1.018986098863536,
+      "final_DL_loss_dB": 0.5867821755748466,
+      "final_UL_loss_dB": 0.8465381307040012,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 1.4091472675687058
+    },
+    {
+      "case_seed": 20063,
+      "episode_return": -605.4025868581418,
+      "final_SI_dB": -26.545751706659733,
+      "final_improvement_dB": -2.884412267606251,
+      "final_DL_loss_dB": 1.14105525010857,
+      "final_UL_loss_dB": 0.6347999661694494,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -0.5832697515533027
+    },
+    {
+      "case_seed": 20064,
+      "episode_return": -358.8398915283592,
+      "final_SI_dB": -50.26942459297682,
+      "final_improvement_dB": 22.32754176449519,
+      "final_DL_loss_dB": 3.9224453437328055,
+      "final_UL_loss_dB": 1.8383011118839576,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 13.78797565794321
+    },
+    {
+      "case_seed": 20065,
+      "episode_return": 360.98826363560755,
+      "final_SI_dB": -24.909309735309332,
+      "final_improvement_dB": -0.04972024761017124,
+      "final_DL_loss_dB": 1.0374715587789787,
+      "final_UL_loss_dB": 2.2061203053272127,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 1.1172868469159738
+    },
+    {
+      "case_seed": 20066,
+      "episode_return": 692.9819315094855,
+      "final_SI_dB": -28.00072704823257,
+      "final_improvement_dB": 7.412125154392701,
+      "final_DL_loss_dB": 0.6235323272319597,
+      "final_UL_loss_dB": 6.602150682918852,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 6.2143006857345995
+    },
+    {
+      "case_seed": 20067,
+      "episode_return": 68.59955638227513,
+      "final_SI_dB": -31.108998484658258,
+      "final_improvement_dB": 0.5189395928309217,
+      "final_DL_loss_dB": 1.4182760702467476,
+      "final_UL_loss_dB": 6.796617644951127,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 4.826189037165268
+    },
+    {
+      "case_seed": 20068,
+      "episode_return": 878.3237169793027,
+      "final_SI_dB": -37.74638100220984,
+      "final_improvement_dB": 1.777858199142301,
+      "final_DL_loss_dB": 1.5871262270350446,
+      "final_UL_loss_dB": 2.624104438549004,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 4.1018560033259845
+    },
+    {
+      "case_seed": 20069,
+      "episode_return": 520.9079354611245,
+      "final_SI_dB": -40.00028732487295,
+      "final_improvement_dB": 6.46631467258532,
+      "final_DL_loss_dB": 3.0113201989129204,
+      "final_UL_loss_dB": 7.204945098265917,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 15.491650528423534
+    },
+    {
+      "case_seed": 20070,
+      "episode_return": 109.71492331821626,
+      "final_SI_dB": -31.63525346882757,
+      "final_improvement_dB": 2.0844492628875955,
+      "final_DL_loss_dB": 6.839024446895845,
+      "final_UL_loss_dB": 2.501856520925873,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 1.3764290278316373
+    },
+    {
+      "case_seed": 20071,
+      "episode_return": -498.20388542462166,
+      "final_SI_dB": -38.415535213601416,
+      "final_improvement_dB": 5.828380490329373,
+      "final_DL_loss_dB": 11.877165195645253,
+      "final_UL_loss_dB": 8.228440798961008,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 3.0256492315768995
+    },
+    {
+      "case_seed": 20072,
+      "episode_return": 31.825571798151202,
+      "final_SI_dB": -32.73846667612367,
+      "final_improvement_dB": -5.868864974621729,
+      "final_DL_loss_dB": 2.7279232922583905,
+      "final_UL_loss_dB": 1.7538999990174151,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 7.382449446710908
+    },
+    {
+      "case_seed": 20073,
+      "episode_return": -418.0937906807429,
+      "final_SI_dB": -33.46613151189554,
+      "final_improvement_dB": -11.307142621036569,
+      "final_DL_loss_dB": 0.05332946281543549,
+      "final_UL_loss_dB": 2.774839799257906,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 4.59267479058645
+    },
+    {
+      "case_seed": 20074,
+      "episode_return": -267.4724419771939,
+      "final_SI_dB": -31.655437210956535,
+      "final_improvement_dB": -4.239127721022335,
+      "final_DL_loss_dB": 0.27143633169919745,
+      "final_UL_loss_dB": 10.482671142188998,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 1.7905933152970874
+    },
+    {
+      "case_seed": 20075,
+      "episode_return": -440.1513361777711,
+      "final_SI_dB": -28.57600059002642,
+      "final_improvement_dB": -12.993205388372441,
+      "final_DL_loss_dB": 10.263288740378366,
+      "final_UL_loss_dB": 7.570467579727312,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -5.464942295902759
+    },
+    {
+      "case_seed": 20076,
+      "episode_return": 592.5530240665973,
+      "final_SI_dB": -37.46060895836865,
+      "final_improvement_dB": 0.34994312961663354,
+      "final_DL_loss_dB": 1.3320358508556733,
+      "final_UL_loss_dB": 0.8807737392229722,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 3.108872208539296
+    },
+    {
+      "case_seed": 20077,
+      "episode_return": 206.71277857750715,
+      "final_SI_dB": -36.7421188361818,
+      "final_improvement_dB": 1.289215238779974,
+      "final_DL_loss_dB": 3.2954964719667093,
+      "final_UL_loss_dB": 0.6743443544306604,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 11.243175224589152
+    },
+    {
+      "case_seed": 20078,
+      "episode_return": 432.21785828566976,
+      "final_SI_dB": -17.127819559966365,
+      "final_improvement_dB": 1.1066111971203085,
+      "final_DL_loss_dB": 11.024387956332005,
+      "final_UL_loss_dB": 6.450709608584686,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 4.373243018068042
+    },
+    {
+      "case_seed": 20079,
+      "episode_return": 129.50854907803262,
+      "final_SI_dB": -30.158258511537177,
+      "final_improvement_dB": 3.773440469176691,
+      "final_DL_loss_dB": 14.286911915650574,
+      "final_UL_loss_dB": 9.263385359931831,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 14.116220371367866
+    },
+    {
+      "case_seed": 20080,
+      "episode_return": -821.6041684213448,
+      "final_SI_dB": -51.897723004007204,
+      "final_improvement_dB": 8.150387915390716,
+      "final_DL_loss_dB": 3.8518508259271025,
+      "final_UL_loss_dB": 2.00387881680445,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 8.937199677265752
+    },
+    {
+      "case_seed": 20081,
+      "episode_return": 260.181495933639,
+      "final_SI_dB": -27.648978812905018,
+      "final_improvement_dB": 3.9116828072669563,
+      "final_DL_loss_dB": 2.0565820176467806,
+      "final_UL_loss_dB": 2.248279753557453,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 3.9116828072669563
+    },
+    {
+      "case_seed": 20082,
+      "episode_return": -515.9275850687314,
+      "final_SI_dB": -35.41754367855367,
+      "final_improvement_dB": 11.960631684029487,
+      "final_DL_loss_dB": 15.88628768751736,
+      "final_UL_loss_dB": 0.2724271235987672,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -0.17197422882854596
+    },
+    {
+      "case_seed": 20083,
+      "episode_return": -655.9466458407479,
+      "final_SI_dB": -37.710376442423865,
+      "final_improvement_dB": -5.7009737213932965,
+      "final_DL_loss_dB": 2.0106923705009017,
+      "final_UL_loss_dB": 4.119404369418315,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 3.6607650204498725
+    },
+    {
+      "case_seed": 20084,
+      "episode_return": 538.918635230384,
+      "final_SI_dB": -33.57524431036361,
+      "final_improvement_dB": 4.02690263568369,
+      "final_DL_loss_dB": 1.681569634154716,
+      "final_UL_loss_dB": 1.4363072281864717,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 4.02690263568369
+    },
+    {
+      "case_seed": 20085,
+      "episode_return": 101.20241452505287,
+      "final_SI_dB": -17.55845449562947,
+      "final_improvement_dB": -4.592488282339946,
+      "final_DL_loss_dB": 3.9952002844602212,
+      "final_UL_loss_dB": 8.662463356836117,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 1.6770079211152868
+    },
+    {
+      "case_seed": 20086,
+      "episode_return": 316.2323920038168,
+      "final_SI_dB": -26.542864632337547,
+      "final_improvement_dB": 13.471358934998252,
+      "final_DL_loss_dB": 11.42053153151832,
+      "final_UL_loss_dB": 0.09555263903459377,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 8.10167958837899
+    },
+    {
+      "case_seed": 20087,
+      "episode_return": -363.6912635918429,
+      "final_SI_dB": -46.782089777396564,
+      "final_improvement_dB": 20.677221468027973,
+      "final_DL_loss_dB": 10.982121509774865,
+      "final_UL_loss_dB": 0.9677561263555496,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 4.794167652371701
+    },
+    {
+      "case_seed": 20088,
+      "episode_return": -279.6937018149763,
+      "final_SI_dB": -17.79330581128848,
+      "final_improvement_dB": -2.0964579280413638,
+      "final_DL_loss_dB": 10.185268452209291,
+      "final_UL_loss_dB": 12.456014026957039,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 2.0099570729292466
+    },
+    {
+      "case_seed": 20089,
+      "episode_return": 894.7389404056382,
+      "final_SI_dB": -31.526264261456845,
+      "final_improvement_dB": 3.5884458150105196,
+      "final_DL_loss_dB": 0.0670137172049472,
+      "final_UL_loss_dB": 0.6552813755131304,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 3.832989724553645
+    },
+    {
+      "case_seed": 20090,
+      "episode_return": -176.83250728334622,
+      "final_SI_dB": -26.07857298081523,
+      "final_improvement_dB": -5.632864126253494,
+      "final_DL_loss_dB": 0.45690582852079586,
+      "final_UL_loss_dB": 6.794150483257949,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 0.40170754096827466
+    },
+    {
+      "case_seed": 20091,
+      "episode_return": 156.51364844880578,
+      "final_SI_dB": -34.491028673051346,
+      "final_improvement_dB": 2.548525877913036,
+      "final_DL_loss_dB": 3.0158517984963,
+      "final_UL_loss_dB": 4.599756856604968,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 13.578528015989576
+    },
+    {
+      "case_seed": 20092,
+      "episode_return": -1200.0,
+      "final_SI_dB": -25.825063664352214,
+      "final_improvement_dB": -10.911679654170527,
+      "final_DL_loss_dB": 1.4474704181045208,
+      "final_UL_loss_dB": 1.1621272246431058,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -6.138122402978912
+    },
+    {
+      "case_seed": 20093,
+      "episode_return": -295.13988603598926,
+      "final_SI_dB": -37.52911874353148,
+      "final_improvement_dB": 2.8022073271702794,
+      "final_DL_loss_dB": 10.951611909020624,
+      "final_UL_loss_dB": 7.110222742659441,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 2.399886282399933
+    },
+    {
+      "case_seed": 20094,
+      "episode_return": -339.2384549688333,
+      "final_SI_dB": -36.626081310838885,
+      "final_improvement_dB": -1.708142390445147,
+      "final_DL_loss_dB": 4.767641063778806,
+      "final_UL_loss_dB": 6.522528318738828,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 0.41621678451402744
+    },
+    {
+      "case_seed": 20095,
+      "episode_return": 3.0157152301893007,
+      "final_SI_dB": -33.585600853338995,
+      "final_improvement_dB": 6.042881032660418,
+      "final_DL_loss_dB": 12.987746810393244,
+      "final_UL_loss_dB": 3.4705812612790563,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 11.180848224746065
+    },
+    {
+      "case_seed": 20096,
+      "episode_return": 425.8616942794368,
+      "final_SI_dB": -37.28715553170578,
+      "final_improvement_dB": 4.628394200805218,
+      "final_DL_loss_dB": 3.1856531077236845,
+      "final_UL_loss_dB": 2.8956209412095895,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 7.141220158442906
+    },
+    {
+      "case_seed": 20097,
+      "episode_return": -371.8524514877394,
+      "final_SI_dB": -28.478537615596146,
+      "final_improvement_dB": -0.376730603887637,
+      "final_DL_loss_dB": 0.48642993992158523,
+      "final_UL_loss_dB": 0.2773713941121212,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": -0.20301177151335992
+    },
+    {
+      "case_seed": 20098,
+      "episode_return": -532.9476293966079,
+      "final_SI_dB": -29.583621600559905,
+      "final_improvement_dB": 8.286847723311634,
+      "final_DL_loss_dB": 10.897522785708615,
+      "final_UL_loss_dB": 9.504951858950294,
+      "final_feasible": false,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 0.8955961089278119
+    },
+    {
+      "case_seed": 20099,
+      "episode_return": 173.75503094413898,
+      "final_SI_dB": -34.936567809627775,
+      "final_improvement_dB": 2.9251933326746027,
+      "final_DL_loss_dB": 0.04346438876991243,
+      "final_UL_loss_dB": 1.8317455048916074,
+      "final_feasible": true,
+      "any_feasible": true,
+      "best_feasible_improvement_dB": 4.365249457869723
+    }
+  ],
+  "summary": {
+    "return_mean": -12.114941822447705,
+    "final_improvement_mean_dB": 0.7243783487122087,
+    "final_DL_loss_mean_dB": 4.4003509357851005,
+    "final_UL_loss_mean_dB": 4.239123153790068,
+    "final_feasible_rate": 0.38,
+    "any_feasible_rate": 1.0,
+    "best_feasible_improvement_mean_dB": 5.356961233325523
+  }
+}

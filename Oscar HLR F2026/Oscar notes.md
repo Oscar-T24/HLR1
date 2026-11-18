@@ -1,6 +1,7 @@
-Todolist for the week 3 deliverables
-- [ ] Reproduce Full Space PSO search (PSO-only)
-- [ ] Reproduce SAC optimization (SAC-only)
+Todolist : 
+- [x] Reproduce Full Space PSO search (PSO-only)
+- [x] Reproduce SAC optimization (SAC-only)
+- [ ] Reproduce SAC optimization (SAC-Init PSO)
 
 Subtasks : 
 - [ ] Be familiar with the `Gymnasium` library for environments
